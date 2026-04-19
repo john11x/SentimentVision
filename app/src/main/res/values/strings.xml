@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SentimentVision</string>
+    <string name="analyze_button">Analyze Sentiment</string>
+    <string name="clear_history">Clear History</string>
+    <string name="input_hint">Type or paste your text here...</string>
+    <string name="sentiment_positive">Positive</string>
+    <string name="sentiment_negative">Negative</string>
+    <string name="sentiment_neutral">Neutral</string>
+    <string name="confidence">Confidence</string>
+    <string name="no_data">No data yet</string>
+    <string name="recent_analyses">Recent Analyses</string>
+    <string name="sentiment_distribution">Sentiment Distribution</string>
+</resources>
